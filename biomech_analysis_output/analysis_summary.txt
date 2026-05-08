@@ -1,0 +1,21 @@
+Biomechanics Analysis Summary
+========================================
+Analyzed frame count: 87
+Frame range used: 180 - 293
+
+Reference bone lengths (median):
+  pelvis: 0.04923 m
+  left_thigh: 0.25848 m
+  left_shank: 0.24464 m
+  right_thigh: 0.23851 m
+  right_shank: 0.23105 m
+
+Key metrics:
+  Left knee angle: mean=126.87, min=72.98, max=170.53
+  Right knee angle: mean=124.91, min=70.61, max=168.73
+  Pelvis Z: mean=2.30, min=2.20, max=2.42
+
+Detected events:
+  deepest_pelvis: frame=242, value=2.19661
+  max_knee_flexion: frame=241, value=73.53952
+  max_knee_extension: frame=189, value=166.56653
